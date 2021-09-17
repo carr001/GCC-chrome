@@ -1,0 +1,23 @@
+sudo tc qdisc add dev ens33 root netem rate 150kbit
+
+sudo tc qdisc add dev ens33 root netem rate 500kbit
+sudo tc qdisc change dev ens33 root netem delay 200ms 50ms
+
+sudo tc qdisc add dev ens33 root netem rate 500kbit loss 10% delay 200ms 50ms
+
+sudo tc qdisc add dev ens33 root netem rate 3Mbit loss 10% delay 200ms
+sudo tc qdisc add dev ens33 root netem rate 1Mbit loss 10% delay 200ms
+
+sudo tc qdisc add dev ens33 root netem rate 3Mbit loss 50% delay 200ms
+sudo tc qdisc add dev ens33 root netem rate 200kbit loss 50% delay 200ms
+
+sudo tc qdisc add dev ens33 root netem rate 1Mbit delay 200ms 50ms
+sudo tc qdisc add dev ens33 root netem rate 1Mbit delay 200ms 
+
+sudo tc qdisc show dev ens33
+sudo tc qdisc del dev ens33 root
+
+
+
+
+

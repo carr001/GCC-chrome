@@ -1,0 +1,7 @@
+bind port 53768 succeed.
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 43 || RR Packet received: 0 || REMB Packet received: 1 
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 43 || RR Packet received: 0 || REMB Packet received: 0 
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 43 || RR Packet received: 0 || REMB Packet received: 0 
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 

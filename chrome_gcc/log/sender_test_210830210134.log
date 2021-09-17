@@ -1,0 +1,21 @@
+bind port 53768 succeed.
+ [SimpleInfo] Start sender test
+ [CountDown] 30s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 43 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 29s left..
+ [CountDown] 28s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 27s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 43 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 26s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 25s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 43 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 24s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 23s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 22s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 43 || RR Packet received: 0 || REMB Packet received: 0 
+ [CountDown] 21s left..
+ [SenderDebuger] Pacing Rate: 500 kbit/s || Packets sent: 42 || RR Packet received: 0 || REMB Packet received: 0 

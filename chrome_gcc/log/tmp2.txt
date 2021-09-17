@@ -1,0 +1,3 @@
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0829 20:30:17.725477 12249 sender_test.cc:26] Go
+start to receive data
